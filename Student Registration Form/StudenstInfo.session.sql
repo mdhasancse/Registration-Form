@@ -1,6 +1,0 @@
-
-desc students_info
-
-
-
-
